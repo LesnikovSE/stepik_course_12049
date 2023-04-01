@@ -7,7 +7,7 @@ from time import sleep
 
 from selenium.webdriver.common.by import By
 
-from pages.ch_shipping_address import SPPCPage
+from pages.ch_sppc import SPPCPage
 from pages.checkout_as_guest import CheckoutAsGuestPage
 from pages.ch_billing_adress import BillingAddressPage
 from pages.main_page import MainPage
